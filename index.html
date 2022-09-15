@@ -299,15 +299,26 @@
         </div>
         <div class="contact-form">
           <form action="https://formspree.io/f/mzbywpkb" method="POST">
-            <input
-              type="text"
-              id="name"
-              name="user_name"
-              placeholder="Full name"
-              minlength="5"
-              maxlength="30"
-              required
-            />
+            <div class="user_name">
+              <input
+                type="text"
+                id="name"
+                name="user_name"
+                placeholder="First name"
+                minlength="5"
+                maxlength="30"
+                required
+              />
+              <input
+                type="text"
+                id="name"
+                name="user_name"
+                placeholder="Last name"
+                minlength="5"
+                maxlength="30"
+                required
+              />
+            </div>
             <input
               type="email"
               id="mail"
@@ -325,9 +336,11 @@
               maxlength="500"
               required
             ></textarea>
-            <button type="submit" name="submit" id="submit">
-              Get in touch
-            </button>
+            <div class="btn">
+              <button type="submit" name="submit" id="submit">
+                Get in touch
+              </button>
+            </div>
           </form>
         </div>
       </div>
