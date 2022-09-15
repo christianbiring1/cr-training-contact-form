@@ -4,15 +4,20 @@
 
 > Description the project.
 
+For this milestone of the portfolio website, I had to:
+
+- Add a contact form to the portfolio.
+- Make sure that I guide MY users' experience in a way that helps them fill in the form without frustration.
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- stylelint, webhint
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://christianbiring1.github.io/cr-training-contact-form/)
 
 ## Getting Started
 
@@ -23,35 +28,40 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Web browser
+- Have completed the previous lessons
+
 ### Setup
+
+- IDE (VsCode)
+- Web browers(Chrome, Firefox ...)
 
 ### Install
 
+- git clone git@github.com:christianbiring1/cr-training-contact-form.git
+
+- cd cr-training-contact-form
+
 ### Usage
 
-### Run tests
+- Open with live Server
 
 ### Deployment
+
+`github pages`
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/christianbiring1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/christian-biringanine)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/christianbiring1/cr-training-contact-form/issues/).
 
 ## Show your support
 
@@ -59,7 +69,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to microverse for providing the README template and the initial code base.
 - Inspiration
 - etc
 
