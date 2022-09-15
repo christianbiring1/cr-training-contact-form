@@ -305,15 +305,16 @@
                 id="name"
                 name="user_name"
                 placeholder="First name"
-                minlength="5"
+                minlength="2"
                 maxlength="30"
+                required
               />
               <input
                 type="text"
                 id="name"
                 name="user_name"
                 placeholder="Last name"
-                minlength="5"
+                minlength="2"
                 maxlength="30"
                 required
               />
@@ -323,7 +324,6 @@
               id="mail"
               name="email_address"
               placeholder="example@gmail.com"
-              pattern=".+@gmail.com"
               required
             />
             <p class="error-msg"></p>
@@ -333,6 +333,7 @@
               name="comment"
               minlength="10"
               maxlength="500"
+              required
             ></textarea>
             <div class="btn">
               <button type="submit" name="submit" id="submit">
