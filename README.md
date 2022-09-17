@@ -54,8 +54,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/christianbiring1)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/christian-biringanine)
+- GitHub: christianbirng1
+- LinkedIn: christian biringanine
 
 ## 🤝 Contributing
 
